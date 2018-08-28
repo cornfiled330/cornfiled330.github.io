@@ -104,5 +104,8 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "The Linux Kernel Archives",
+        href: "https://www.kernel.org/"
     }
 ]
